@@ -10,7 +10,7 @@ namespace groceryCheckoutDesign
 
         public float CaliculateTotal() {
             float t = 0;
-            this.ItemList.ForEach((Item i) => { t += i.price; });
+            this.ItemList.ForEach((Item i) => { t += i.price*i.quantity; });
             return t;
         }
     }

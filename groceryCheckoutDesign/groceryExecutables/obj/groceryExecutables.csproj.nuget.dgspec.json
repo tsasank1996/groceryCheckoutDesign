@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryExecutables\\groceryExecutables.csproj": {}
+    "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryExecutables\\groceryExecutables.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryCheckoutDesign\\groceryCheckoutDesign.csproj": {
+    "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryCheckoutDesign\\groceryCheckoutDesign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryCheckoutDesign\\groceryCheckoutDesign.csproj",
+        "projectUniqueName": "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryCheckoutDesign\\groceryCheckoutDesign.csproj",
         "projectName": "groceryCheckoutDesign",
-        "projectPath": "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryCheckoutDesign\\groceryCheckoutDesign.csproj",
+        "projectPath": "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryCheckoutDesign\\groceryCheckoutDesign.csproj",
         "packagesPath": "C:\\Users\\thums01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryCheckoutDesign\\obj\\",
+        "outputPath": "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryCheckoutDesign\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thums01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryExecutables\\groceryExecutables.csproj": {
+    "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryExecutables\\groceryExecutables.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryExecutables\\groceryExecutables.csproj",
+        "projectUniqueName": "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryExecutables\\groceryExecutables.csproj",
         "projectName": "groceryExecutables",
-        "projectPath": "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryExecutables\\groceryExecutables.csproj",
+        "projectPath": "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryExecutables\\groceryExecutables.csproj",
         "packagesPath": "C:\\Users\\thums01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryExecutables\\obj\\",
+        "outputPath": "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryExecutables\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thums01\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -85,8 +85,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryCheckoutDesign\\groceryCheckoutDesign.csproj": {
-                "projectPath": "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryCheckoutDesign\\groceryCheckoutDesign.csproj"
+              "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryCheckoutDesign\\groceryCheckoutDesign.csproj": {
+                "projectPath": "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryCheckoutDesign\\groceryCheckoutDesign.csproj"
               }
             }
           }
@@ -100,6 +100,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

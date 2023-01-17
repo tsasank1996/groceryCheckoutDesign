@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "V6O9KsMCT/g00kBf2DnWKAxB8ivZ67Vb/7g5kiR9qbZEKeI3a0Y0+xzczEDQdkZ7GEyDDm2spNaidQ3tCFjiRQ==",
+  "dgSpecHash": "q2z6cPLchWThRBhSI4qDoKfLzvs/jzHgCjik4iKJjJSrtLF8EC2kgh+Lp4Hoe7N0XN2HffHIdEXy744oitoqLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thums01\\Desktop\\groceryDesign\\groceryCheckoutDesign\\groceryExecutables\\groceryExecutables.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\thums01\\Desktop\\New folder\\groceryCheckoutDesign\\groceryExecutables\\groceryExecutables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thums01\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,33 @@
+﻿{
+  "items": [
+    {
+      "id": 1,
+      "name": "TV",
+      "price": 2000
+
+    },
+    {
+      "id": 2,
+      "name": "Sofa",
+      "price": 500
+
+    },
+    {
+      "id": 3,
+      "name": "bottle",
+      "price": 5
+
+    },
+    {
+      "id": 4,
+      "name": "mixi",
+      "price": 40
+
+    },
+    {
+      "id": 4,
+      "name": "mixi",
+      "price": 40
+    }
+  ]
+}

@@ -7,3 +7,12 @@ C:\Users\thums01\Desktop\groceryDesign\groceryCheckoutDesign\groceryCheckoutDesi
 C:\Users\thums01\Desktop\groceryDesign\groceryCheckoutDesign\groceryCheckoutDesign\obj\Debug\netstandard2.0\groceryCheckoutDesign.csproj.CoreCompileInputs.cache
 C:\Users\thums01\Desktop\groceryDesign\groceryCheckoutDesign\groceryCheckoutDesign\obj\Debug\netstandard2.0\groceryCheckoutDesign.dll
 C:\Users\thums01\Desktop\groceryDesign\groceryCheckoutDesign\groceryCheckoutDesign\obj\Debug\netstandard2.0\groceryCheckoutDesign.pdb
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryCheckoutDesign\bin\Debug\netstandard2.0\groceryCheckoutDesign.deps.json
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryCheckoutDesign\bin\Debug\netstandard2.0\groceryCheckoutDesign.dll
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryCheckoutDesign\bin\Debug\netstandard2.0\groceryCheckoutDesign.pdb
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryCheckoutDesign\obj\Debug\netstandard2.0\groceryCheckoutDesign.csprojAssemblyReference.cache
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryCheckoutDesign\obj\Debug\netstandard2.0\groceryCheckoutDesign.AssemblyInfoInputs.cache
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryCheckoutDesign\obj\Debug\netstandard2.0\groceryCheckoutDesign.AssemblyInfo.cs
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryCheckoutDesign\obj\Debug\netstandard2.0\groceryCheckoutDesign.csproj.CoreCompileInputs.cache
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryCheckoutDesign\obj\Debug\netstandard2.0\groceryCheckoutDesign.dll
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryCheckoutDesign\obj\Debug\netstandard2.0\groceryCheckoutDesign.pdb

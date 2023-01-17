@@ -17,3 +17,23 @@ C:\Users\thums01\Desktop\groceryDesign\groceryCheckoutDesign\groceryExecutables\
 C:\Users\thums01\Desktop\groceryDesign\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\ref\groceryExecutables.dll
 C:\Users\thums01\Desktop\groceryDesign\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\groceryExecutables.pdb
 C:\Users\thums01\Desktop\groceryDesign\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\groceryExecutables.genruntimeconfig.cache
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\bin\Debug\net5.0\groceryExecutables.exe
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\bin\Debug\net5.0\groceryExecutables.deps.json
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\bin\Debug\net5.0\groceryExecutables.runtimeconfig.json
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\bin\Debug\net5.0\groceryExecutables.runtimeconfig.dev.json
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\bin\Debug\net5.0\groceryExecutables.dll
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\bin\Debug\net5.0\ref\groceryExecutables.dll
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\bin\Debug\net5.0\groceryExecutables.pdb
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\bin\Debug\net5.0\groceryCheckoutDesign.dll
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\bin\Debug\net5.0\groceryCheckoutDesign.pdb
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\groceryExecutables.csprojAssemblyReference.cache
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\groceryExecutables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\groceryExecutables.AssemblyInfoInputs.cache
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\groceryExecutables.AssemblyInfo.cs
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\groceryExecutables.csproj.CoreCompileInputs.cache
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\groceryExecutables.csproj.CopyComplete
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\groceryExecutables.dll
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\ref\groceryExecutables.dll
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\groceryExecutables.pdb
+C:\Users\thums01\Desktop\New folder\groceryCheckoutDesign\groceryExecutables\obj\Debug\net5.0\groceryExecutables.genruntimeconfig.cache
